@@ -20,10 +20,12 @@ All design credits go to Zentry. This project is created purely for educational 
 
 and many more, including code architecture and reusability
 
+
 Prerequisites
 
-Make sure you have the following installed on your machine:
 -Git
+
 -Node.js
+
 -npm (Node Package Manager)
 
